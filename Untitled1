@@ -1,0 +1,3 @@
+git remote rm origin
+
+git@github.com:billscore/tutormailer.git
